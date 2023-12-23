@@ -1,5 +1,6 @@
 broker: "tcp://124.222.11.237:1883"
-topic: "sms/topic"
+topicSms: "sms/topic"
+topicCall: "Call/topic"
 wxAPI: "http://192.168.2.100:3001"
 recipientWxNickname: "晓阳"
 
